@@ -30,27 +30,6 @@
 
 ---
 
-## 🗂 프로젝트 구조
-
-11_10_assignment/
-│ main.py
-│ game.py
-│ player.py
-│ enemy.py
-│ item.py
-│ background.py
-│ highscore.json
-│ README.md
-│
-└─ assets/
-kirby.png
-enemy.png
-item.png
-bg.png
-heart.png
-
----
-
 ## 🕹 조작 방법
 
 | 키            | 동작                              |
